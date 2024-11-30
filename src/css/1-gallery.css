@@ -33,12 +33,12 @@ img {
   transform: scale(1.1);
 }
 
-.sl-overlay {
+body .sl-overlay {
   background: black;
 }
 
-.sl-wrapper .sl-close,
-.sl-wrapper .sl-counter,
-.sl-wrapper .sl-navigation button {
+body .sl-wrapper .sl-close,
+body .sl-wrapper .sl-counter,
+body .sl-wrapper .sl-navigation button {
   color: white;
 }
